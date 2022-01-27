@@ -1,3 +1,0 @@
-# emulsion
-
-about alpha classification
